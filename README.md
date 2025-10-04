@@ -1,1 +1,1 @@
-# Running-Time-of-Algorithms-algo
+# Running-Time-of-Algorithms-algo The function performs an insertion sort but instead of printing the array, it counts every time an element is moved to make space for the key. The final count is returned as the number of shifts needed to sort the array.
